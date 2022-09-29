@@ -1,0 +1,19 @@
+* {
+    background-color:#08f;
+    color: black;
+
+}
+
+.heading {
+    font-size: 32px;
+    color: #000;
+    display:inline-block;
+    background-color: #048;
+    margin: 0;
+    
+}
+
+.instructions {
+    border:16px solid #048;
+    
+}
